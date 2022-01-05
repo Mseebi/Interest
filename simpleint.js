@@ -6,4 +6,4 @@ function int(principal, interestRate, numOfYears){
 	return a;
 }
 
-console.log(int(5000, 5, 1)); 
+console.log(int(5000, 5, 1))  ; 
